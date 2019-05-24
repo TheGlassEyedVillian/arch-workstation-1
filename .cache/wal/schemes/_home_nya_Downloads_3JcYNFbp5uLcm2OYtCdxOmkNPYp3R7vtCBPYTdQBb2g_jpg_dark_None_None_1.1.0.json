@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nya/Downloads/3JcYNFbp5uLcm2OYtCdxOmkNPYp3R7vtCBPYTdQBb2g.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e0a09d",
+        "cursor": "#e0a09d"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#663E48",
+        "color2": "#504559",
+        "color3": "#694857",
+        "color4": "#564D61",
+        "color5": "#983E41",
+        "color6": "#A0484B",
+        "color7": "#e0a09d",
+        "color8": "#9c706d",
+        "color9": "#663E48",
+        "color10": "#504559",
+        "color11": "#694857",
+        "color12": "#564D61",
+        "color13": "#983E41",
+        "color14": "#A0484B",
+        "color15": "#e0a09d"
+    }
+}

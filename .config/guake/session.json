@@ -1,0 +1,15 @@
+{
+    "schema_version": 1,
+    "timestamp": 1558694200,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "directory": "/home/nya",
+                    "label": "nya@cerberus:~",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}

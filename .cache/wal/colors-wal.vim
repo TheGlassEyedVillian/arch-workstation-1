@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/nya/Pictures/.wallpaper/wall.jpg"
+let background = "#02030F"
+let foreground = "#d8b5ca"
+let cursor     = "#d8b5ca"
+
+" Colors
+let color0  = "#02030F"
+let color1  = "#534B6C"
+let color2  = "#EE9464"
+let color3  = "#245498"
+let color4  = "#5F6193"
+let color5  = "#8C748B"
+let color6  = "#976F9F"
+let color7  = "#d8b5ca"
+let color8  = "#977e8d"
+let color9  = "#534B6C"
+let color10 = "#EE9464"
+let color11 = "#245498"
+let color12 = "#5F6193"
+let color13 = "#8C748B"
+let color14 = "#976F9F"
+let color15 = "#d8b5ca"

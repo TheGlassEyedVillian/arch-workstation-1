@@ -1,0 +1,24 @@
+wallpaper: "/home/nya/Pictures/.wallpaper/wall.jpg"
+
+special:
+    background: "#02030F"
+    foreground: "#d8b5ca"
+    cursor: "#d8b5ca"
+
+colors:
+    color0: "#02030F"
+    color1: "#534B6C"
+    color2: "#EE9464"
+    color3: "#245498"
+    color4: "#5F6193"
+    color5: "#8C748B"
+    color6: "#976F9F"
+    color7: "#d8b5ca"
+    color8: "#977e8d"
+    color9: "#534B6C"
+    color10: "#EE9464"
+    color11: "#245498"
+    color12: "#5F6193"
+    color13: "#8C748B"
+    color14: "#976F9F"
+    color15: "#d8b5ca"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nya/Downloads/Konachan.com - 282912 forest gensuke landscape night nobody original scenic sky snow stairs tree.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#03071B",
+        "foreground": "#95d2d9",
+        "cursor": "#95d2d9"
+    },
+    "colors": {
+        "color0": "#03071B",
+        "color1": "#164973",
+        "color2": "#215361",
+        "color3": "#15538F",
+        "color4": "#216BA2",
+        "color5": "#4C7390",
+        "color6": "#2F9FD1",
+        "color7": "#95d2d9",
+        "color8": "#689397",
+        "color9": "#164973",
+        "color10": "#215361",
+        "color11": "#15538F",
+        "color12": "#216BA2",
+        "color13": "#4C7390",
+        "color14": "#2F9FD1",
+        "color15": "#95d2d9"
+    }
+}

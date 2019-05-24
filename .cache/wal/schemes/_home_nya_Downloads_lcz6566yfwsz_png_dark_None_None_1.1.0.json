@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nya/Downloads/lcz6566yfwsz.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101213",
+        "foreground": "#dce3ac",
+        "cursor": "#dce3ac"
+    },
+    "colors": {
+        "color0": "#101213",
+        "color1": "#5E9B3D",
+        "color2": "#638F4A",
+        "color3": "#6C8E54",
+        "color4": "#778D64",
+        "color5": "#90A761",
+        "color6": "#B4C75D",
+        "color7": "#dce3ac",
+        "color8": "#9a9e78",
+        "color9": "#5E9B3D",
+        "color10": "#638F4A",
+        "color11": "#6C8E54",
+        "color12": "#778D64",
+        "color13": "#90A761",
+        "color14": "#B4C75D",
+        "color15": "#dce3ac"
+    }
+}
